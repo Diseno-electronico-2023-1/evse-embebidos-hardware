@@ -495,6 +495,10 @@
     [
       "31a09336-1297-4baf-b1fe-2f52ac9280cf",
       "ethernet_module"
+    ],
+    [
+      "3146e5f8-bf0e-4709-b480-36018c22d70a",
+      "screen_module"
     ]
   ],
   "text_variables": {}
