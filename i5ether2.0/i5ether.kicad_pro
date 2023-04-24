@@ -491,6 +491,10 @@
     [
       "8004154c-2cb0-4a38-a510-aadf61b39ef8",
       ""
+    ],
+    [
+      "31a09336-1297-4baf-b1fe-2f52ac9280cf",
+      "ethernet_module"
     ]
   ],
   "text_variables": {}
