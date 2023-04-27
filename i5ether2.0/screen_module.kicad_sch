@@ -272,7 +272,7 @@
     (property "Value" "Conn_01x14" (at 146.05 94.615 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "" (at 143.51 91.44 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical" (at 143.51 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 143.51 91.44 0)

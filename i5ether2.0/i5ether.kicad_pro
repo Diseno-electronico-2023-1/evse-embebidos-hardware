@@ -50,9 +50,9 @@
       },
       "diff_pair_dimensions": [
         {
-          "gap": 0.25,
-          "via_gap": 0.25,
-          "width": 0.2
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
         }
       ],
       "drc_exclusions": [],
@@ -178,12 +178,12 @@
         }
       ],
       "track_widths": [
-        0.25
+        0.0
       ],
       "via_dimensions": [
         {
-          "diameter": 0.8,
-          "drill": 0.4
+          "diameter": 0.0,
+          "drill": 0.0
         }
       ],
       "zones_allow_external_fillets": false
@@ -428,7 +428,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.5,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -499,6 +499,14 @@
     [
       "3146e5f8-bf0e-4709-b480-36018c22d70a",
       "screen_module"
+    ],
+    [
+      "2eb1c9aa-8378-460a-af5f-78d29c0155ac",
+      "SPI_module"
+    ],
+    [
+      "0943df1d-0e2b-40e0-83c6-b1dbbad7a2f6",
+      "bluetooth_module"
     ]
   ],
   "text_variables": {}
